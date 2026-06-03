@@ -16,6 +16,7 @@
     "description": "Módulo para Foundry VTT v13 que exporta pastas e compêndios inteiros para arquivos ZIP. Compatível com qualquer sistema de RPG.",
     "tags": ["Foundry VTT", "TypeScript", "Open Source"],
     "links": [
+      { "label": "🌐 Abrir","href": "https://foundryvtt.com/packages/foundry-bulk-exporter","style": "primary"  },
       { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/foundry-bulk-exporter", "style": "outline" }
     ]
   },
@@ -25,7 +26,9 @@
     "description": "Módulo para Foundry VTT que exporta fichas de personagem de Tormenta 20 para PDF, direto do sistema.",
     "tags": ["Foundry VTT", "Tormenta 20", "TypeScript", "Open Source"],
     "links": [
+      { "label": "🌐 Abrir","href": "https://foundryvtt.com/packages/t20-pdf-exporter","style": "primary"  },
       { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/t20-pdf-exporter", "style": "outline" }
     ]
   }
+
 ]
