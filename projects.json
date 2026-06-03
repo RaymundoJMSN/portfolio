@@ -1,0 +1,31 @@
+[
+  {
+    "icon": "🏛️",
+    "name": "Arena Imperial T20",
+    "description": "Gerador de encontros para Tormenta 20. Calcula ND do grupo, sugere encontros por dificuldade e tipo, com +525 monstros do Bestiário e Livro Básico.",
+    "tags": ["Tormenta 20", "Vue 3", "Tauri", "Open Source"],
+    "links": [
+      { "label": "🌐 Abrir",       "href": "https://arena.raynathus.com.br",                                     "style": "primary"  },
+      { "label": "💾 Download",    "href": "https://github.com/RaymundoJMSN/arena-imperial-t20/releases/latest", "style": "ghost"    },
+      { "label": "github:Código",  "href": "https://github.com/RaymundoJMSN/arena-imperial-t20",                 "style": "outline"  }
+    ]
+  },
+  {
+    "icon": "📦",
+    "name": "Foundry Bulk Exporter",
+    "description": "Módulo para Foundry VTT v13 que exporta pastas e compêndios inteiros para arquivos ZIP. Compatível com qualquer sistema de RPG.",
+    "tags": ["Foundry VTT", "TypeScript", "Open Source"],
+    "links": [
+      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/foundry-bulk-exporter", "style": "outline" }
+    ]
+  },
+  {
+    "icon": "📄",
+    "name": "T20 PDF Exporter",
+    "description": "Módulo para Foundry VTT que exporta fichas de personagem de Tormenta 20 para PDF, direto do sistema.",
+    "tags": ["Foundry VTT", "Tormenta 20", "TypeScript", "Open Source"],
+    "links": [
+      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/t20-pdf-exporter", "style": "outline" }
+    ]
+  }
+]
