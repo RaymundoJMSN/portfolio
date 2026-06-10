@@ -29,6 +29,16 @@
       { "label": "🌐 Abrir","href": "https://foundryvtt.com/packages/t20-pdf-exporter","style": "primary"  },
       { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/t20-pdf-exporter", "style": "outline" }
     ]
+  },
+  {
+    "icon": "🩹",
+    "name": "Always HP – Tormenta 20",
+    "description": "Janela de dano e cura rápida para Foundry VTT, com integração nativa ao Tormenta 20: tipo de dano com RD, imunidade e vulnerabilidade automáticas, modo PV/PM, PV temporário e ignorar RD. Fork do Always HP do IronMonk.",
+    "tags": ["Foundry VTT", "Tormenta 20", "JavaScript", "Open Source"],
+    "links": [
+      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/always-hp-t20",                "style": "primary" },
+      { "label": "💾 Download",         "href": "https://github.com/RaymundoJMSN/always-hp-t20/releases/latest", "style": "ghost"   }
+    ]
   }
 
 ]
