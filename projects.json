@@ -47,7 +47,6 @@
     "tags": ["Foundry VTT", "Tormenta 20", "JavaScript", "Open Source"],
     "links": [
       { "label": "🌐 Abrir",            "href": "https://foundryvtt.com/packages/always-hp-t20",                "style": "primary" },
-      { "label": "💾 Download",         "href": "https://github.com/RaymundoJMSN/always-hp-t20/releases/latest", "style": "ghost"   },
       { "label": "github:Repositório",  "href": "https://github.com/RaymundoJMSN/always-hp-t20",                "style": "outline" }
     ]
   }
