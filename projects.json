@@ -11,6 +11,16 @@
     ]
   },
   {
+    "icon": "🐙",
+    "name": "Tradução CoC7 PT-BR",
+    "description": "Tradução para português do Brasil do sistema Call of Cthulhu 7th Edition no Foundry VTT: interface completa do sistema + compêndios do Core Content (perícias, feitiços, monstros, ocupações, armas, tomos e mais) via Babele.",
+    "tags": ["Foundry VTT", "Call of Cthulhu", "Babele", "Open Source"],
+    "links": [
+      { "label": "🌐 Abrir",           "href": "https://foundryvtt.com/packages/traducao-coc-core-pt-br", "style": "primary" },
+      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/traducao-coc-core-pt-br",  "style": "outline" }
+    ]
+  },
+  {
     "icon": "📦",
     "name": "Foundry Bulk Exporter",
     "description": "Módulo para Foundry VTT v13 que exporta pastas e compêndios inteiros para arquivos ZIP. Compatível com qualquer sistema de RPG.",
@@ -36,8 +46,9 @@
     "description": "Janela de dano e cura rápida para Foundry VTT, com integração nativa ao Tormenta 20: tipo de dano com RD, imunidade e vulnerabilidade automáticas, modo PV/PM, PV temporário e ignorar RD. Fork do Always HP do IronMonk.",
     "tags": ["Foundry VTT", "Tormenta 20", "JavaScript", "Open Source"],
     "links": [
-      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/always-hp-t20",                "style": "primary" },
-      { "label": "💾 Download",         "href": "https://github.com/RaymundoJMSN/always-hp-t20/releases/latest", "style": "ghost"   }
+      { "label": "🌐 Abrir",            "href": "https://foundryvtt.com/packages/always-hp-t20",                "style": "primary" },
+      { "label": "💾 Download",         "href": "https://github.com/RaymundoJMSN/always-hp-t20/releases/latest", "style": "ghost"   },
+      { "label": "github:Repositório",  "href": "https://github.com/RaymundoJMSN/always-hp-t20",                "style": "outline" }
     ]
   }
 
