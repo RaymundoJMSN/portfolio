@@ -11,6 +11,15 @@
     ]
   },
   {
+    "icon": "☁️",
+    "name": "T20 Ficha Online",
+    "description": "Módulo Foundry VTT (Tormenta 20) + serviço Node.js que dá aos jogadores acesso somente-leitura às fichas por site ou celular, mesmo com o mundo do Foundry fechado. PWA instalável, atualização em tempo real (SSE) e link mágico por jogador.",
+    "tags": ["Foundry VTT", "Tormenta 20", "Node.js", "PWA", "Open Source"],
+    "links": [
+      { "label": "github:Repositório", "href": "https://github.com/RaymundoJMSN/t20-ficha-online", "style": "primary" }
+    ]
+  },
+  {
     "icon": "🐙",
     "name": "Tradução CoC7 PT-BR",
     "description": "Tradução para português do Brasil do sistema Call of Cthulhu 7th Edition no Foundry VTT: interface completa do sistema + compêndios do Core Content (perícias, feitiços, monstros, ocupações, armas, tomos e mais) via Babele.",
